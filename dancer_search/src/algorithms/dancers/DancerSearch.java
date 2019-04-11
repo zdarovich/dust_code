@@ -1,4 +1,4 @@
-package algorythms.dancers;
+package algorithms.dancers;
 
 import java.util.AbstractMap;
 import java.util.List;

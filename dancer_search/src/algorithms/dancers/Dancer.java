@@ -1,4 +1,4 @@
-package algorythms.dancers;
+package algorithms.dancers;
 
 /**
  * API specification for the objects

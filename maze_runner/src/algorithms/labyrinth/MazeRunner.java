@@ -1,4 +1,4 @@
-package algorythms.labyrinth;
+package algorithms.labyrinth;
 
 import java.io.BufferedReader;
 import java.io.File;

@@ -1,4 +1,4 @@
-package algorythms.dancers;
+package algorithms.dancers;
 
 public class DancerImpl implements Dancer {
 
