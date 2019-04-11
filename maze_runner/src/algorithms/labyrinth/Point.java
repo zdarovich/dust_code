@@ -1,4 +1,4 @@
-package algorythms.labyrinth;
+package algorithms.labyrinth;
 
 /**
  * Endpoint of some possible path.

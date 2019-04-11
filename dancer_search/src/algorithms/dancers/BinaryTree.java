@@ -1,4 +1,4 @@
-package algorythms.dancers;
+package algorithms.dancers;
 
 import java.util.ArrayList;
 import java.util.List;

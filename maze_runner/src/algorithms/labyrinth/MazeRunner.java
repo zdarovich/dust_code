@@ -1,4 +1,4 @@
-package algorythms.labyrinth;
+package algorithms.labyrinth;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -13,17 +13,10 @@ public class MazeRunner {
     /**
      * The labyrinth being explored.
      * List of rows of list of columns in that row
-     * e.g., map.get(1).get(3) gives the 3rd cell value of the first row
-     * NB! You are not allowed to use any "tricks" to read the map directly.
-     * You must explore the map using move() and scan() and create your
-     * own map.
      */
     private List<List<Integer>> map;
     /**
      * The labyrinth being explored as raw values.
-     * NB! You are not allowed to use any "tricks" to read the map values directly.
-     * You must explore the map using move() and scan() and create your
-     * own map.
      */
     private List<List<String>> rawMap;
     /**
