@@ -1,4 +1,4 @@
-package ee.ttu.algoritmid.labyrinth;
+package algorythms.labyrinth;
 
 import java.io.BufferedReader;
 import java.io.File;

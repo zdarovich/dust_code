@@ -1,4 +1,4 @@
-package ee.ttu.algoritmid.labyrinth;
+package algorythms.labyrinth;
 
 /**
  * Endpoint of some possible path.
